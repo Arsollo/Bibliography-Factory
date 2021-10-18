@@ -18,7 +18,7 @@ This program takes an input of 10 files containing the following format:
   month={Dec},
   }
   
-  Afeterwards, the program then create 3 different styles bibliographies (IEE, ACM, NJ) for each article and place them in seperate text files, a text file for each different bibliography style
+  Afterwards, the program then create 3 different styles bibliographies (IEE, ACM, NJ) for each article and place them in seperate text files, a text file for each different bibliography style
  
  A sample output for an ACM style look like this: 
   [1]     M. B. Khan et al. 2018. Image Processing and Analysis of Phase-Contrast Microscopic Images of Activated Sludge to Monitor the Wastewater Treatment Plants. IEEE Access. 6, 4 (2018), 1778-1791. DOI:https://doi.org/10.1109/ACCESS.2017.2780249. 
